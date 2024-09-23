@@ -12,3 +12,7 @@ architecture.
 MagusCat/MagusCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+---
+<div style="display:flex;flex-direction:row;justify-content:center;">
+  <img height="140" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></img>  
+</div>
